@@ -1,0 +1,47 @@
+h2{
+    background-color: rgb(59, 59, 59);
+    font-size: 40px;
+    font-family: "Verdana";
+    border: solid 5px rgb(94, 122, 245);
+    border-image: url('unknown.png')30 round;
+    margin: 10px;
+    width: 600px;
+    box-shadow: 6px 14px;
+}
+
+
+body {
+    background-image: url('vintage_wall.png')
+
+}
+Fieldset {
+    background-color: rgb(250, 236, 34);
+    border: solid 2px rgb(82, 94, 250);
+    border-radius: 45px;
+    margin: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'lucida console', 'Trebuchet MS', sans-serif;
+    width: 1000px;
+    padding: 30px;
+
+}
+legend {
+    float: right;
+    font-weight: bold;
+    font-size: 30px;
+}
+input {
+    margin: 5px;
+}
+label {
+    text-decoration: underline overline;
+    margin: 13px;
+    font-size: 24px;
+}
+textarea {
+    margin: 10px;
+   
+}
+tr {
+    background-color: rgb(255, 98, 98);
+    margin: 13px;
+}
